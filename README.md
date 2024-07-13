@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <br>
   <img width="240" src="./src/assets/tapps.png" alt="logo of telegram web apps">
@@ -28,3 +29,6 @@ yarn dev --host
 - [Doc](https://docs.ton.org/develop/dapps/twa)
 - [Example TMA](https://t.me/vite_twa_example_bot/app)
 - [Link](https://twa-dev.github.io/vite-boilerplate/)
+=======
+
+>>>>>>> c1845ccfc32eca7635b0532cf1d6e24e56bb6f41
